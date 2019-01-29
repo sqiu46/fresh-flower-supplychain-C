@@ -1,0 +1,2 @@
+Flower supply chain -- from production to sale 
+—- by Quan Guo, Sihan Qiu, Yuelin Wang (Apr, 2018)Files:API.h                           —- interface to simulate engine engine.c                        —- code for simulation engine supply_chain.c                  —- application program for flower supply chain simulationTo compile and run the program:cc supply_chain.c engine.c./a.out
